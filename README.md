@@ -7,6 +7,7 @@ Record my reading progress and urge me to complete Reading Plan
 > 3. 利用python进行数据分析
 > 4. Python核心编程
 
+
 > ## 政治经济学
 > 1. 香港治与乱
 > 2. 马克思为什么是对的
@@ -15,6 +16,7 @@ Record my reading progress and urge me to complete Reading Plan
 > 5. 美国反对美国
 > 6. 以平等之名：托克维尔与《美国的民主》
 > 7. 大棋局-美国的首要地位及其地缘战略
+
 
 > 社会哲学
 > 1. 哈耶克文选
@@ -29,6 +31,7 @@ Record my reading progress and urge me to complete Reading Plan
 > 10. 乌合之众
 > 11. 自私的基因
 > 12 实践/操劳与理论
+
 
 > 自然科学
 > 1. 费马大定理：一个困惑了世间智者358年的问题
