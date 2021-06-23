@@ -2,11 +2,10 @@
 Record my reading progress and urge me to complete Reading Plan
 
 > Python学习
-
-> Python编程从入门到实践
-> Arduino程序设计基础
-> 利用python进行数据分析
-> Python核心编程
+> 1. Python编程从入门到实践
+> 2. Arduino程序设计基础
+> 3. 利用python进行数据分析
+> 4. Python核心编程
 
 香港治与乱
 马克思为什么是对的
