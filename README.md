@@ -1,13 +1,13 @@
 # 2021 ReadingRecords
 Record my reading progress and urge me to complete Reading Plan
 
-> # Python学习
+> ## Python学习
 > 1. Python编程从入门到实践
 > 2. Arduino程序设计基础
 > 3. 利用python进行数据分析
 > 4. Python核心编程
 
-> 政治经济学
+> ## 政治经济学
 > 1. 香港治与乱
 > 2. 马克思为什么是对的
 > 3. 政治的逻辑-马克思主义政治学原理
