@@ -1,7 +1,7 @@
 # 2021 ReadingRecords
 Record my reading progress and urge me to complete Reading Plan
 
-> Python学习
+> # Python学习
 > 1. Python编程从入门到实践
 > 2. Arduino程序设计基础
 > 3. 利用python进行数据分析
