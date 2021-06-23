@@ -8,7 +8,7 @@ Record my reading progress and urge me to complete Reading Plan
 > 4. Python核心编程
 
 > 政治经济学
-香港治与乱
+> 1. 香港治与乱
 > 2. 马克思为什么是对的
 > 3. 政治的逻辑-马克思主义政治学原理
 > 4. 政治秩序的起源：从前人类时代到法国革命
