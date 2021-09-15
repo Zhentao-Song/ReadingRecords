@@ -73,6 +73,7 @@ Record my reading progress and urge me to complete Reading Plan
  5. 浩瀚大洋是赌场
  6. 未来简史
  7. 万物简史
+ 8. 跨越边界的社区
 
 ## 业余爱好
  1. 韩语学习30天入门
