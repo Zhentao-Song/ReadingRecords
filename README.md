@@ -4,7 +4,6 @@ Record my reading progress and urge me to complete Reading Plan
 1. 兴趣使然，爱好广泛。大多时候要和自己的惰性所抗争
 2. 目前大多都是中文书籍，日后会逐步涉及到一些英文原书
 3. 语言能力很重要啊铁子们！
-4. 为了生活，要跳槽到新华报业去了
 
  ## Python学习
  1. Python编程从入门到实践
